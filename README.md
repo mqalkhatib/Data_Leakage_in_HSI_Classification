@@ -14,4 +14,5 @@
 # Higher Patch size --> More Leakage
 <img width="1059" height="443" alt="image" src="https://github.com/user-attachments/assets/506a8cf2-2d89-4004-b691-47fc221e9b02" />
 
+# Solution: Benchmark Datasets
 <img width="1308" height="669" alt="image" src="https://github.com/user-attachments/assets/0e813037-340d-4465-92bc-ce1ff88a6a6c" />
